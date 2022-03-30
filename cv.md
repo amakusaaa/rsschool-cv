@@ -1,7 +1,6 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>CV</title>
 </head>
 <body>
     <div class="web">
@@ -52,9 +51,9 @@
             <h2>Пример кода</h2>
             <code>
             let number = prompt('Какой сейчас год?', '');
-            if (number == 2022) {
-            alert('Да!');
-            } else {
+            if (number == 2022) { 
+            alert('Да!'); 
+            } else { 
             alert('Нет!');
             }
             </code>
