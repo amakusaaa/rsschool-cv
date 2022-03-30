@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
@@ -7,10 +6,6 @@
 <body>
     <div class="web">
         <div class="info">
-            <div class="one">
-                <img src="IMG_5041.JPG"
-                class="van">
-            </div>
             <div class="two">
                 <h1>Кирилл Лицкевич</h1>
             </div>
@@ -33,7 +28,7 @@
                     <li>Прохождение курса - шаг к новым знаниям </li>
                 </ul>
         </div>
-        <div class="ok">
+        <div class="ok"></div>
             <h2>Навыки</h2>
                 <ul>
                     <li>Git</li>
